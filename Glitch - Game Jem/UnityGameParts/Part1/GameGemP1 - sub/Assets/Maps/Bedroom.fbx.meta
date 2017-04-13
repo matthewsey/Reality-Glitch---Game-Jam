@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 0d8e504d969a6784994f5afc6ed9c62e
+timeCreated: 1491907481
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ash tray
+    100002: Bed
+    100004: //RootNode
+    100006: Book
+    100008: Book.001
+    100010: Camera
+    100012: Chair
+    100014: Computer
+    100016: Computer.001
+    100018: Computer.002
+    100020: Computer.003
+    100022: Cylinder
+    100024: Desk
+    100026: Door
+    100028: Dresser
+    100030: Kamodina
+    100032: lamp shade
+    100034: Room
+    100036: Shelves
+    100038: Shelves.001
+    400000: ash tray
+    400002: Bed
+    400004: //RootNode
+    400006: Book
+    400008: Book.001
+    400010: Camera
+    400012: Chair
+    400014: Computer
+    400016: Computer.001
+    400018: Computer.002
+    400020: Computer.003
+    400022: Cylinder
+    400024: Desk
+    400026: Door
+    400028: Dresser
+    400030: Kamodina
+    400032: lamp shade
+    400034: Room
+    400036: Shelves
+    400038: Shelves.001
+    2300000: ash tray
+    2300002: Bed
+    2300004: Book
+    2300006: Book.001
+    2300008: Chair
+    2300010: Computer
+    2300012: Computer.001
+    2300014: Computer.002
+    2300016: Computer.003
+    2300018: Cylinder
+    2300020: Desk
+    2300022: Door
+    2300024: Dresser
+    2300026: Kamodina
+    2300028: lamp shade
+    2300030: Room
+    2300032: Shelves
+    2300034: Shelves.001
+    3300000: ash tray
+    3300002: Bed
+    3300004: Book
+    3300006: Book.001
+    3300008: Chair
+    3300010: Computer
+    3300012: Computer.001
+    3300014: Computer.002
+    3300016: Computer.003
+    3300018: Cylinder
+    3300020: Desk
+    3300022: Door
+    3300024: Dresser
+    3300026: Kamodina
+    3300028: lamp shade
+    3300030: Room
+    3300032: Shelves
+    3300034: Shelves.001
+    4300000: Computer.003
+    4300002: Computer.002
+    4300004: Computer.001
+    4300006: Shelves.001
+    4300008: Chair
+    4300010: Shelves
+    4300012: Book.001
+    4300014: Book
+    4300016: Computer
+    4300018: Cylinder
+    4300020: Desk
+    4300022: Door
+    4300024: ash tray
+    4300026: lamp shade
+    4300028: Kamodina
+    4300030: Dresser
+    4300032: Bed
+    4300034: Room
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
